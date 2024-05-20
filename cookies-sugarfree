@@ -1,0 +1,51 @@
+
+[
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/4.png",
+    "title": "Chocolate Delight",
+    "text": "Perfectly crispy on the outside and sufficiently thick and gooey in the center, this cookie is filled with semi-sweet and dark chocolate chips, giving it a rich depth of flavor.",
+    "price": 24,
+    "basePrice": 24,
+    "weight": "2 pcs./ 200 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/5.png",
+    "title": "Peanut Paradise",
+    "text": "Sweet, savory, and perfectly balanced, this cookie satisfies the cravings of peanut butter and chocolate lovers.",
+    "price": 20,
+    "basePrice": 20,
+    "weight": "2 pcs./ 200 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/6.png",
+    "title": "Chocolate Nutty Delicacy",
+    "text": "Our signature chocolate chip and walnut cookie recipe guarantees an unforgettable taste experience. Each cookie is crispy on the outside but reveals a tender center.",
+    "price": 18,
+    "basePrice": 18,
+    "weight": "2 pcs./ 200 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/10.png",
+    "title": "Caramel and Coconut",
+    "text": "Indulge yourself with coconut, buttery, caramel cookies that have an unprecedented taste and texture. Enjoyment all year round.",
+    "price": 33,
+    "basePrice": 33,
+    "weight": "4 pcs./ 400 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/11.png",
+    "title": "Vegan Chocolate Chip",
+    "text": "Our vegan gluten-free cookie contains crunchy walnut pieces and semi-sweet vegan chocolate chips.",
+    "price": 39,
+    "basePrice": 39,
+    "weight": "4 pcs./ 400 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/12.png",
+    "title": "Crème Brûlée Nut Cookie",
+    "text": "Using a unique blend of ingredients, we created a cookie with crème brûlée and almond pieces that promises an unparalleled gastronomic experience. Each piece has a crispy crust and melts in your mouth.",
+    "price": 35,
+    "basePrice": 35,
+    "weight": "4 pcs./ 400 g."
+  }
+]

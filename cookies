@@ -1,0 +1,99 @@
+
+[
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/1.png",
+    "title": "Best Friends",
+    "text": "The cookie that started it all! Our signature chocolate chip and walnut cookie is crispy on the outside with a thick and gooey center.",
+    "price": 20,
+    "basePrice": 20,
+    "weight": "2 pcs./ 200 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/2.png",
+    "title": "Chocolate Frenchman",
+    "text": "This cookie, made from dark French cocoa and semi-sweet chocolate chips, is sure to satisfy even the most avid chocolate lover.",
+    "price": 24,
+    "basePrice": 24,
+    "weight": "2 pcs./ 200 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/3.png",
+    "title": "Oatmeal Raisin, Sir!",
+    "text": "This rich buttery cookie weighs six ounces each, golden brown on the outside, moist inside, and filled with plump sweet raisins.",
+    "price": 18,
+    "basePrice": 18,
+    "weight": "2 pcs./ 200 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/4.png",
+    "title": "Chocolate Delight",
+    "text": "Perfectly crispy on the outside and sufficiently thick and gooey in the center, this cookie is filled with semi-sweet and dark chocolate chips, giving it a rich depth of flavor.",
+    "price": 24,
+    "basePrice": 24,
+    "weight": "2 pcs./ 200 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/5.png",
+    "title": "Peanut Paradise",
+    "text": "Sweet, savory, and perfectly balanced, this cookie satisfies the cravings of peanut butter and chocolate lovers.",
+    "price": 20,
+    "basePrice": 20,
+    "weight": "2 pcs./ 200 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/6.png",
+    "title": "Chocolate Nutty Delicacy",
+    "text": "Our signature chocolate chip and walnut cookie recipe guarantees an unforgettable taste experience. Each cookie is crispy on the outside but reveals a tender center.",
+    "price": 18,
+    "basePrice": 18,
+    "weight": "2 pcs./ 200 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/7.png",
+    "title": "Signature Cookie Assortment",
+    "text": "Why choose just one when you can have them all? Our classic cookie assortment includes one of each of the four original cookie flavors.",
+    "price": 36,
+    "basePrice": 36,
+    "weight": "4 pcs./ 400 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/8.png",
+    "title": "Lemon Cookie",
+    "text": "Spring is just around the corner, but we couldn't wait to bring you some sunshine: our first lemon cookie. This treat is chewy, lemony, not too sweet, and even a little... refreshing?",
+    "price": 33,
+    "basePrice": 33,
+    "weight": "4 pcs./ 400 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/9.png",
+    "title": "Chocolate Lovers",
+    "text": "You no longer need to choose favorites. We made this set for all the people who really love chocolate…",
+    "price": 38,
+    "basePrice": 38,
+    "weight": "4 pcs./ 400 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/10.png",
+    "title": "Caramel and Coconut",
+    "text": "Indulge yourself with coconut, buttery, caramel cookies that have an unprecedented taste and texture. Enjoyment all year round.",
+    "price": 33,
+    "basePrice": 33,
+    "weight": "4 pcs./ 400 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/11.png",
+    "title": "Vegan Chocolate Chip",
+    "text": "Our vegan gluten-free cookie contains crunchy walnut pieces and semi-sweet vegan chocolate chips.",
+    "price": 39,
+    "basePrice": 39,
+    "weight": "4 pcs./ 400 g."
+  },
+  {
+    "image": "https://cel3ntano.github.io/cookies_backend_data/images/12.png",
+    "title": "Crème Brûlée Nut Cookie",
+    "text": "Using a unique blend of ingredients, we created a cookie with crème brûlée and almond pieces that promises an unparalleled gastronomic experience. Each piece has a crispy crust and melts in your mouth.",
+    "price": 35,
+    "basePrice": 35,
+    "weight": "4 pcs./ 400 g."
+  }
+]
